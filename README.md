@@ -13,28 +13,35 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<hr>
 <h2> About me </h2> 
-<hr>
 
 Hey there, I'm Gene! <br /> <br />
 
-I'm a full-stack software engineer whos passion has always been in building and creating (💻 + 🎸 + 🎛)
-I'm a myself into a Software Engineering immersive at Hack Reactor. During my time at Hack Reactor, I equipped myself with the skills to become a full fledged SWE with Javascript, React, Express, PosgreSQL, MongoDB, and MySQL. <br>
+I'm a full-stack software engineer whos passion has always been in building and creating (💻 + 🎸 + 🎛) <br/>
+I pride myself in my work ethic and ability to problem solve. <br>
+I'm currently seeking for full-time employment as a fullstack engineer. I'd love to discuss opportunities with you!
 
-
-<h2> Recent Projects: </h2> <br />
+<h2> Recent Projects: </h2>
 
 <ul> 
   
-<li> <h3> <a href='https://github.com/The-Room-Blue-Ocean/WarRoom' target='_blank'> War Room </a> </h3> <br /></li>
-
-<li> <h3> <a href='https://github.com/Team-LiveWire-SDC/Reviews' target='_blank'> SDC </a> </h3> <br /></li>
-
-<li> <h3> <a href='https://github.com/TheCatalinaWineMixer/ProjectAtelier' target='_blank'> FEC </a> </h3> <br /></li>
-
-<li> <h3> <a href='https://github.com/genewongs/LOCO-BROCO-Events' target='_blank'> LOCO-BROCO-EVENTS - an event finding application </a> </h3> <br /> </li>
-
+<li> <h3> <a href='https://github.com/The-Room-Blue-Ocean/WarRoom' target='_blank'> War Room 🗡</a> </h3> </li>
+  React | Express | SocketIO | Firebase | ReactRouter | Styled-Components | MaterialUI <br>
+  Directed team of 7 as the UI Lead where Photoshop, CSS, and Styled-Components were used to plan and create an original fantasy themed UI design and smooth experience through the application. 
+  
+<li> <h3> <a href='https://github.com/Team-LiveWire-SDC/Reviews' target='_blank'> LimeWire 🍋 </a> </h3> </li>
+ PostgreSQL | Express | NGINX | Loader.io | New Relic | K6 | AWS (EC2)  <br>
+  Developed the backend of an ecommerce website utilizing PostgreSQL to ensure transactional integrity and optimized speeds while dealing with over 5 million data points. 
+  
+<li> <h3> <a href='https://github.com/TheCatalinaWineMixer/ProjectAtelier' target='_blank'> Catalina Wine Mixer 🍷 </a> </h3> </li>
+  React | ContextAPI | Styled Components | React Router | JEST | Webpack	
+An e-commerce website that provides a broad range of products for clients to browse. I was tasked with building the product details component built off a client's mock up.
+  
+<li> <h3> <a href='https://github.com/genewongs/LOCO-BROCO-Events' target='_blank'> LOCO-BROCO-EVENTS 🔍 </a> </h3> <br /> </li>
+  React | ContextAPI | JS | TicketMaster API | GoogleMaps API | MongoDB | Styled Components | CSS 
+  An event finder full-stack application that utilizes geolocation to fetch local events based on search queries by keyword, location, and time all integrated with a custom built UX / UI.
 </ul>
 
-My hobbies including creating original music and sculpting sound. Since a young age, I've never stopped expressing my creative ideas through different mediums - whether it be through a musical instrument or even a keyboard! I'd love for you to DM me and reach out! 
+<h2> Extras! </h2> 
+My hobbies are creating original music and sculpting sound. I also love fashion and have been involved in the industry in my last job.
+Since a young age, I've never stopped expressing my creative ideas through different mediums - whether it be through a musical instrument, fashion, and simply through typing code!
