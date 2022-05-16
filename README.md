@@ -32,11 +32,11 @@ I'm currently seeking for full-time employment as a fullstack engineer. I'd love
   Developed the backend of an ecommerce website utilizing PostgreSQL to ensure transactional integrity and optimized speeds while dealing with over 5 million data points. 
   
 <li> <h3> <a href='https://github.com/TheCatalinaWineMixer/ProjectAtelier' target='_blank'> Catalina Wine Mixer 🍷 </a> </h3> </li>
-  React | ContextAPI | Styled Components | React Router | JEST | Webpack	
+  React | ContextAPI | Styled Components | React Router | JEST | Webpack	 <br>
 An e-commerce website that provides a broad range of products for clients to browse. I was tasked with building the product details component built off a client's mock up.
   
 <li> <h3> <a href='https://github.com/genewongs/LOCO-BROCO-Events' target='_blank'> LOCO-BROCO-EVENTS 🔍 </a> </h3> </li>
-  React | ContextAPI | JS | TicketMaster API | GoogleMaps API | MongoDB | Styled Components | CSS 
+  React | ContextAPI | JS | TicketMaster API | GoogleMaps API | MongoDB | Styled Components | CSS  <br>
   An event finder full-stack application that utilizes geolocation to fetch local events based on search queries by keyword, location, and time all integrated with a custom built UX / UI.
 </ul>
 
