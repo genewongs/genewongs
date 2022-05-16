@@ -37,7 +37,7 @@ I'm currently seeking for full-time employment as a fullstack engineer. I'd love
   React | ContextAPI | Styled Components | React Router | JEST | Webpack	
 An e-commerce website that provides a broad range of products for clients to browse. I was tasked with building the product details component built off a client's mock up.
   
-<li> <h3> <a href='https://github.com/genewongs/LOCO-BROCO-Events' target='_blank'> LOCO-BROCO-EVENTS 🔍 </a> </h3> <br /> </li>
+<li> <h3> <a href='https://github.com/genewongs/LOCO-BROCO-Events' target='_blank'> LOCO-BROCO-EVENTS 🔍 </a> </h3> </li>
   React | ContextAPI | JS | TicketMaster API | GoogleMaps API | MongoDB | Styled Components | CSS 
   An event finder full-stack application that utilizes geolocation to fetch local events based on search queries by keyword, location, and time all integrated with a custom built UX / UI.
 </ul>
