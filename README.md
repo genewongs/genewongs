@@ -22,10 +22,11 @@ Hey there, I'm Gene! <br /> <br />
 I'm a full-stack software engineer whos passion has always been in building and creating (💻 + 🎸 + 🎛)
 I'm a myself into a Software Engineering immersive at Hack Reactor. During my time at Hack Reactor, I equipped myself with the skills to become a full fledged SWE with Javascript, React, Express, PosgreSQL, MongoDB, and MySQL. <br>
 
-<ul> 
-  
+
 <h2> Recent Projects: </h2> <br />
 
+<ul> 
+  
 <li> <h3> <a href='https://github.com/The-Room-Blue-Ocean/WarRoom' target='_blank'> War Room </a> </h3> <br /></li>
 
 <li> <h3> <a href='https://github.com/Team-LiveWire-SDC/Reviews' target='_blank'> SDC </a> </h3> <br /></li>
