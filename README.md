@@ -23,15 +23,15 @@ I'm currently seeking for full-time employment as a fullstack engineer. I'd love
 
 <ul> 
   
-<li> <h3> <a href='https://github.com/The-Room-Blue-Ocean/WarRoom' target='_blank'> War Room 🗡</a> </h3> </li>
+<li> <h3> <a href='https://github.com/genewongs/WarRoom' target='_blank'> War Room 🗡</a> </h3> </li>
   React | Express | SocketIO | Firebase | ReactRouter | Styled-Components | MaterialUI <br>
   Directed team of 7 as the UI Lead where Photoshop, CSS, and Styled-Components were used to plan and create an original fantasy themed UI design and smooth experience through the application. 
   
-<li> <h3> <a href='https://github.com/Team-LiveWire-SDC/Reviews' target='_blank'> LimeWire 🍋 </a> </h3> </li>
+<li> <h3> <a href='https://github.com/genewongs/SDC-Reviews' target='_blank'> LimeWire 🍋 </a> </h3> </li>
  PostgreSQL | Express | NGINX | Loader.io | New Relic | K6 | AWS (EC2)  <br>
   Developed the backend of an ecommerce website utilizing PostgreSQL to ensure transactional integrity and optimized speeds while dealing with over 5 million data points. 
   
-<li> <h3> <a href='https://github.com/TheCatalinaWineMixer/ProjectAtelier' target='_blank'> Catalina Wine Mixer 🍷 </a> </h3> </li>
+<li> <h3> <a href='https://github.com/genewongs/ProjectAtelier' target='_blank'> Project Atelier 👟 </a> </h3> </li>
   React | ContextAPI | Styled Components | React Router | JEST | Webpack	 <br>
 An e-commerce website that provides a broad range of products for clients to browse. I was tasked with building the product details component built off a client's mock up.
   
