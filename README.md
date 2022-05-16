@@ -1,4 +1,4 @@
-# Hey I'm Gene!
+# Hey There, I'm Gene! 
 <!--
 **genewongs/genewongs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2> About me </h2> 
-
-Hey there, I'm Gene! <br /> <br />
 
 I'm a full-stack software engineer whos passion has always been in building and creating (💻 + 🎸 + 🎛) <br/>
 I pride myself in my work ethic and ability to problem solve. <br>
