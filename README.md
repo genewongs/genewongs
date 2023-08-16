@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm a full-stack software engineer whos passion has always been in building and creating (💻 + 🎸 + 🎛) <br/>
 I pride myself in my work ethic and ability to problem solve. <br>
-I'm currently seeking for full-time employment as a fullstack engineer. I'd love to discuss opportunities with you!
+I'm currently a Full-Stack Developer for Cortica and loving what I do every single day. 
 
 <h2> Recent Projects: </h2>
 
