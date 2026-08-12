@@ -23,7 +23,7 @@ I'm currently a Full-Stack Developer for Cortica and loving what I do every sing
 
 <ul> 
 <li> <h3> <a href='https://github.com/genewongs/clockwork_labs' target='_blank'> Clockwork Labs </a> </h3> </li>
-  React | TypeScript | Express | Prisma | SQLite | TanStack Query | Zod | Tailwind CSS | Recharts | Web Audio <br><br>
+  React | TypeScript | Express | Prisma | SQLite | TanStack Query | Zod | Tailwind CSS | Recharts | Web Audio <br>
   Built a full-stack practice app with a typed React frontend, Express API, Prisma/SQLite database, Zod validation, centralized API client, and reusable feature modules. Implemented gear tracking, string tension estimation, practice/performance logging, analytics dashboards, and an orbit-style rhythmic visualizer powered by SVG math and Web Audio scheduling.
 
   
