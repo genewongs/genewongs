@@ -22,6 +22,18 @@ I'm currently a Full-Stack Developer for Cortica and loving what I do every sing
 <h2> Recent Projects: </h2>
 
 <ul> 
+
+
+<li> <h3> <a href='https://github.com/genewongs/clockwork_labs' target='_blank'> War Room 🗡</a> </h3> </li>
+  React | TypeScript | Express | Prisma | SQLite | TanStack Query | Zod | Tailwind CSS | Recharts | Web Audio <br><br>
+  Built a full-stack practice app with a typed React frontend, Express API, Prisma/SQLite database, Zod validation, centralized API client, and reusable feature modules. Implemented gear tracking, string tension estimation, practice/performance logging, analytics dashboards, and an orbit-style rhythmic visualizer powered by SVG math and Web Audio scheduling.
+
+  
+<li>
+  <h3>
+    <a href="https://github.com/genewongs/Healthcare-Dashboard" target="_blank"> Healthcare Dashboard </a> </h3> </li>
+  React | TypeScript | FastAPI | PostgreSQL | SQLAlchemy | Docker | Material UI | React Query | Recharts <br>
+  Built a full-stack healthcare dashboard with patient CRUD, searchable and paginated patient records, clinical notes, template-based patient summaries, dashboard analytics, dark/light theming, and Dockerized local development.  
   
 <li> <h3> <a href='https://github.com/genewongs/WarRoom' target='_blank'> War Room 🗡</a> </h3> </li>
   React | Express | SocketIO | Firebase | ReactRouter | Styled-Components | MaterialUI <br>
